@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Debugging
+description: Debugging the errors I find along the way
+show_downloads: "false"
+logo: ../resources/logo.jpg
