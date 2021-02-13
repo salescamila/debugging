@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
 title: Debugging
-description: Debugging the errors I find along the way
-logo: ./resources/logo.jpg
+logo: /assets/img/logo.jpg
+description: Debugging the errors I find along the way.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
