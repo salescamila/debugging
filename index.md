@@ -5,12 +5,7 @@
 
 **Solution:** Manually update all the dependencies using npm or yarn 
 
-```markdown
-
-`npm audit fix`
-`yarn upgrade --latest`
-
 ```
-
-`npm audit fix`
-`yarn upgrade --latest`
+npm audit fix
+yarn upgrade --latest
+```
