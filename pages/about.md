@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About me 
+# About me 
 
 Go to [camilas.dev](camilas.dev)
 
