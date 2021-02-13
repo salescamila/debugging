@@ -9,3 +9,7 @@
 npm audit fix
 yarn upgrade --latest
 ```
+<br/>
+
+<hr>
+[About](./pages/about.md)
