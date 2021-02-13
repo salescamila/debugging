@@ -1,4 +1,4 @@
-# Resources
+# Help Guide / Guia de Ajuda
 
 Dúvidas que vou tendo ao longo do caminho
 
