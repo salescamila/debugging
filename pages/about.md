@@ -6,4 +6,4 @@ layout: default
 
 Go to [camilas.dev](camilas.dev)
 
-[back](./)
+[back](.././)
