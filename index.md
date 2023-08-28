@@ -1,15 +1,25 @@
 # Help Guide
 
-
 ## ➜ Can't resolve github Dependabot alert
+
 **Erro:** Dependabot cannot create a pull request as one or more other dependencies require a version that is incompatible with this update.
 
 **Solution:** Manually update all the dependencies using npm or yarn <br/>
+
 ```bash
 npm audit fix
 yarn upgrade --latest
 ```
-<br/>
 
-<hr>
+## ➜ ESLint error with correct code TypeScript
+
+**Erro:** You correct the code, but the eslint still indicates an erro on your code
+
+**Solution:** (Microsoft solution) Restart the typescript server
+Ctrl + Shift + P
+> TypeScript: Restart TS Server
+
+![VSCode Settings](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45816765-b47b-4f45-aaa5-e0a36960d4bd/Untitled.png)
+![Restart TS Server](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4ac0f9-faf9-4c2f-a024-93af24794d12/Untitled.png)
+
 [About](./pages/about.md)
