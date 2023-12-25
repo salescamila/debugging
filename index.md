@@ -19,7 +19,11 @@ yarn upgrade --latest
 Ctrl + Shift + P
 > TypeScript: Restart TS Server
 
-![VSCode Settings](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45816765-b47b-4f45-aaa5-e0a36960d4bd/Untitled.png)
-![Restart TS Server](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc4ac0f9-faf9-4c2f-a024-93af24794d12/Untitled.png)
+## ➜ Checkout outdated packages and update them
+
+```bash
+yarn outdated
+yarn upgrade-interactive --latest
+```
 
 [About](./pages/about.md)
