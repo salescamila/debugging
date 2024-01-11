@@ -26,4 +26,18 @@ yarn outdated
 yarn upgrade-interactive --latest
 ```
 
+## ➜ [GIT] Create new branch
+
+```bash
+git checkout -b new-branch origin/new-branch
+```
+
+## ➜ [GIT] Log as graph
+
+```bash
+git log --graph --oneline --all
+  or
+gitk --all
+```
+
 [About](./pages/about.md)
