@@ -50,3 +50,12 @@ Dúvidas que vou tendo ao longo do caminho
   gitk --all
   ```
 </details>
+
+<details>
+  <summary><h3>[GIT] Remove file from commit history</h3></summary>
+  
+  ```bash
+  git filter-repo --path [file] --invert-paths
+  git push --force
+  ```
+</details>
