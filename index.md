@@ -40,4 +40,11 @@ git log --graph --oneline --all
 gitk --all
 ```
 
+## ➜ [GIT] Remove file from commit history
+  
+```bash
+git filter-repo --path [file] --invert-paths
+git push --force
+```
+
 [About](./pages/about.md)
