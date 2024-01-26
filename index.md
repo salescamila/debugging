@@ -47,4 +47,12 @@ git filter-repo --path [file] --invert-paths
 git push --force
 ```
 
+## ➜ [GIT] Set username and e-mail
+  
+```bash
+git config --global user.name "Mona Lisa"
+git config --global user.email "mona@lisa.com"
+
+git config --global --list 
+```
 [About](./pages/about.md)
