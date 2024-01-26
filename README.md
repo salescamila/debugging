@@ -59,3 +59,15 @@ Dúvidas que vou tendo ao longo do caminho
   git push --force
   ```
 </details>
+
+
+<details>
+  <summary><h3>[GIT] Set username and e-mail</h3></summary>
+  
+```bash
+git config --global user.name "Mona Lisa"
+git config --global user.email "mona@lisa.com"
+
+git config --global --list 
+```
+</details>
